@@ -1,0 +1,7 @@
+package adapter_model.turkey;
+
+public interface Turkey{
+    void gobble();
+
+    void fly();
+}

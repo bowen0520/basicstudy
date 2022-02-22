@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE students[
+    <!ENTITY addr "江苏省苏州市昆山市学院路828号浦东软件园">
+
+    <!ELEMENT students (student)*>
+    <!ELEMENT student (id,name,age,gender,address)>
+    <!ELEMENT id (#PCDATA)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT age (#PCDATA)>
+    <!ELEMENT gender (#PCDATA)>
+    <!ELEMENT address (#PCDATA)>
+
+    <!ATTLIST student class_name ID #REQUIRED>
+    <!ATTLIST student teacher CDATA #REQUIRED>
+]>
+
+<students>
+    <student class_name="A100" teacher="a">
+        <id>123</id>
+        <name>zz</name>
+        <age>16</age>
+        <gender>男</gender>
+        <address>&addr;</address>
+    </student>
+
+    <student class_name="B100" teacher="b">
+        <id>121</id>
+        <name>bb</name>
+        <age>18</age>
+        <gender>女</gender>
+        <address>&addr;</address>
+    </student>
+
+    <student class_name="BD1905" teacher="c">
+        <id>122</id>
+        <name>cc</name>
+        <age>16</age>
+        <gender>女</gender>
+        <address>&addr;</address>
+    </student>
+
+    <student class_name="BD1900" teacher="dqw">
+        <id>123123</id>
+        <name>sa</name>
+        <age>12</age>
+        <gender>女</gender>
+        <address>adsadas</address>
+    </student>
+</students>

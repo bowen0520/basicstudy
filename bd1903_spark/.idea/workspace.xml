@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="70c63d6a-d5e3-476f-bbb2-9ce68816df5c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Scala Object" />
+        <option value="FxmlFile" />
+        <option value="Package Object" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/App/Maven/apache-maven-3.6.1" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1U6J8bMu7JFAi4ozhaojydqAI13" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bd1903_hdfs" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.13867188" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.briup.bigdata" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="HanshuTest" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.briup.bigdata.day07.HanshuTest" />
+      <module name="bd1903_scala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.briup.bigdata.day07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectTest" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.briup.bigdata.day07.ObjectTest" />
+      <module name="bd1903_scala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.briup.bigdata.day07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.briup.bigdata.day08.Test" />
+      <module name="bd1903_scala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.briup.bigdata.day08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSql" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.briup.bigdata.sql.TestSql" />
+      <module name="bd1903_spark" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.briup.bigdata.sql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnionDemo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.briup.bigdata.core.UnionDemo" />
+      <module name="bd1903_spark" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.briup.bigdata.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.HanshuTest" />
+        <item itemvalue="Application.ObjectTest" />
+        <item itemvalue="Application.TestSql" />
+        <item itemvalue="Application.UnionDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70c63d6a-d5e3-476f-bbb2-9ce68816df5c" name="Default Changelist" comment="" />
+      <created>1573731437776</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573731437776</updated>
+      <workItem from="1573731439683" duration="37000" />
+      <workItem from="1573732289558" duration="1579000" />
+      <workItem from="1573734284177" duration="668000" />
+      <workItem from="1573780302574" duration="67000" />
+      <workItem from="1573797647896" duration="6204000" />
+      <workItem from="1573890748368" duration="2241000" />
+      <workItem from="1573898323302" duration="142000" />
+      <workItem from="1574047867067" duration="10618000" />
+      <workItem from="1574143935695" duration="10270000" />
+      <workItem from="1574213762923" duration="9330000" />
+      <workItem from="1574306186820" duration="666000" />
+      <workItem from="1574328354987" duration="1309000" />
+      <workItem from="1574385205881" duration="1115000" />
+      <workItem from="1574413657767" duration="86000" />
+      <workItem from="1574663875141" duration="749000" />
+      <workItem from="1574664690685" duration="1412000" />
+      <workItem from="1574666229415" duration="1205000" />
+      <workItem from="1574668321975" duration="1776000" />
+      <workItem from="1574670954786" duration="362000" />
+      <workItem from="1574671573596" duration="468000" />
+      <workItem from="1574672869304" duration="3881000" />
+      <workItem from="1574680241593" duration="2205000" />
+      <workItem from="1574733104591" duration="6903000" />
+      <workItem from="1574743791978" duration="187000" />
+      <workItem from="1574751204628" duration="4069000" />
+      <workItem from="1574770197690" duration="1487000" />
+      <workItem from="1574775898372" duration="524000" />
+      <workItem from="1574778392816" duration="1700000" />
+      <workItem from="1574838555933" duration="2507000" />
+      <workItem from="1574861144016" duration="1866000" />
+      <workItem from="1574921174855" duration="7118000" />
+      <workItem from="1574992868384" duration="4462000" />
+      <workItem from="1575272219050" duration="13000" />
+      <workItem from="1577515175235" duration="44000" />
+      <workItem from="1577516166663" duration="137000" />
+      <workItem from="1577517869814" duration="486000" />
+      <workItem from="1577518607537" duration="1161000" />
+      <workItem from="1577966897715" duration="12000" />
+      <workItem from="1578562815110" duration="2034000" />
+      <workItem from="1578619476311" duration="4780000" />
+      <workItem from="1578646632806" duration="12000" />
+      <workItem from="1586611946967" duration="189000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="569" y="333" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1577518642977">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="569" y="333" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1536.824@0.0.1536.824" timestamp="1577518642977" />
+    <state x="574" y="109" key="#com.intellij.ide.util.MemberChooser" timestamp="1578624243098">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="109" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1578624243098" />
+    <state width="1493" height="318" key="GridCell.Tab.0.bottom" timestamp="1578631989114">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="318" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578631989114" />
+    <state width="1493" height="318" key="GridCell.Tab.0.center" timestamp="1578631989114">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="318" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1578631989114" />
+    <state width="1493" height="318" key="GridCell.Tab.0.left" timestamp="1578631989114">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="318" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1578631989114" />
+    <state width="1493" height="318" key="GridCell.Tab.0.right" timestamp="1578631989114">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="318" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1578631989114" />
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1577516288072">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1577516288072" />
+  </component>
+</project>

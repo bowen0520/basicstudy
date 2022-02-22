@@ -1,0 +1,9 @@
+com\briup\DataIntegration\DataGet.class
+com\briup\cleandata\DataClean$DCMapper.class
+com\briup\pagerank\PageRank$PRMapper.class
+com\briup\cleandata\DataClean.class
+com\briup\lookdata\DataCheck.class
+com\briup\pagerank\PageRank.class
+com\briup\DataIntegration\DataGet$DGMapper.class
+com\briup\DataIntegration\DataGet$DGReducer.class
+com\briup\pagerank\PageRank$PRReducer.class

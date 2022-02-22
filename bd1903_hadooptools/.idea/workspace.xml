@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0648b8bf-0116-4b08-bc9e-c8aba5e75e1a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>com.briup.bigdata.bd1903.hbase.hbase.pre.Sum</find>
+    </findStrings>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven-repository" />
+        <option name="mavenHome" value="C:/App/Maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="C:\Users\29314\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1U6Y2Vg2AELy9MVhUDlTeT8Gxog" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="hive" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideal-workplace\bd1903_hadooptools\src\main\java\hbase\option" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ideal-workplace\bd1903_hadooptools\src\main\java\hive" />
+      <recent name="D:\ideal-workplace\bd1903_hadooptools\src\main\java\hbase\withmapreducer" />
+      <recent name="D:\ideal-workplace\bd1903_hadooptools\src\main\java\hbase\option" />
+      <recent name="D:\ideal-workplace\bd1903_hadooptools\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HiveTest">
+    <configuration name="HbaseCRUD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hbase.option.HbaseCRUD" />
+      <module name="bd1903_hadooptools" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hbase.option.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HiveTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hive.HiveTest" />
+      <module name="bd1903_hadooptools" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kafka.MyConsumer" />
+      <module name="bd1903_hadooptools" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kafka.MyProducer" />
+      <module name="bd1903_hadooptools" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestHive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hive.TestHive" />
+      <module name="bd1903_hadooptools" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HiveTest" />
+        <item itemvalue="Application.TestHive" />
+        <item itemvalue="Application.HbaseCRUD" />
+        <item itemvalue="Application.MyConsumer" />
+        <item itemvalue="Application.MyProducer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0648b8bf-0116-4b08-bc9e-c8aba5e75e1a" name="Default Changelist" comment="" />
+      <created>1571984380075</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571984380075</updated>
+      <workItem from="1571984384259" duration="1121000" />
+      <workItem from="1571985542781" duration="8950000" />
+      <workItem from="1572000222371" duration="6026000" />
+      <workItem from="1572008753242" duration="63000" />
+      <workItem from="1572064680561" duration="365000" />
+      <workItem from="1572339908053" duration="1989000" />
+      <workItem from="1572345794979" duration="1457000" />
+      <workItem from="1572397924672" duration="10000" />
+      <workItem from="1572416006554" duration="5775000" />
+      <workItem from="1572501853755" duration="60000" />
+      <workItem from="1572501918341" duration="10484000" />
+      <workItem from="1572572004663" duration="13350000" />
+      <workItem from="1572682972542" duration="4000" />
+      <workItem from="1572851120738" duration="2704000" />
+      <workItem from="1572938664207" duration="1755000" />
+      <workItem from="1572942253653" duration="1547000" />
+      <workItem from="1572943912099" duration="3826000" />
+      <workItem from="1572951234622" duration="379000" />
+      <workItem from="1572954344883" duration="570000" />
+      <workItem from="1573004695849" duration="364000" />
+      <workItem from="1573020829059" duration="3622000" />
+      <workItem from="1573049074049" duration="8000" />
+      <workItem from="1573194673218" duration="1413000" />
+      <workItem from="1573286046985" duration="1822000" />
+      <workItem from="1573367978019" duration="3000" />
+      <workItem from="1573457829440" duration="541000" />
+      <workItem from="1573458397534" duration="19000" />
+      <workItem from="1573458641262" duration="3125000" />
+      <workItem from="1573472894008" duration="24000" />
+      <workItem from="1573473228701" duration="1854000" />
+      <workItem from="1573475245995" duration="45000" />
+      <workItem from="1573478485678" duration="3000" />
+      <workItem from="1573478569628" duration="1326000" />
+      <workItem from="1573528767693" duration="37000" />
+      <workItem from="1573528836873" duration="53000" />
+      <workItem from="1573532546878" duration="2362000" />
+      <workItem from="1573541957828" duration="599000" />
+      <workItem from="1573543161727" duration="596000" />
+      <workItem from="1573545698975" duration="640000" />
+      <workItem from="1574678307245" duration="38000" />
+      <workItem from="1586611781137" duration="151000" />
+      <workItem from="1593778512187" duration="318000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="543" y="157" key="FileChooserDialogImpl" timestamp="1593778824979">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="543" y="157" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593778824979" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
+  </component>
+</project>

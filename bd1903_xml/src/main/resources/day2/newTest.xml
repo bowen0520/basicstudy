@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE school>
+
+<school school_name="江西理工大学"> 
+  <class class_name="BD1903">
+    <student student_id="s112" student_name="bb" student_gender="男" student_address="昆山"/>
+    <student student_id="s113" student_name="cc" student_gender="男" student_address="昆山"/>
+  </class>  
+  <haha num="25">good luck</haha>
+</school>

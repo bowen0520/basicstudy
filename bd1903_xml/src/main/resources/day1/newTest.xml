@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--<?xml-stylesheet type="text/css" href="test.css"?>--><!--<!DOCTYPE students SYSTEM "www.bd1903.xml.day1/student.dtd">--><!--
+<!DOCTYPE students[
+    <!ENTITY addr "江苏省苏州市昆山市学院路828号浦东软件园">
+    <!ELEMENT students ANY>
+    <!ELEMENT student (id,name,age,describe,address)>
+    <!ELEMENT id (#PCDATA)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT age (#PCDATA)>
+    <!ELEMENT describe (#PCDATA)>
+    <!ELEMENT address (#PCDATA)>
+]>
+--><students>
+
+    <student class_name="BDl903" gender="女" teacher="b">
+        <!--学生信息-->
+        <id>123</id>
+        <name>zz</name>
+        <age>16</age>
+        <describe>成绩<![CDATA[>]]>90</describe>
+        <address>江苏省苏州市昆山市学院路828号浦东软件园</address>
+    </student>
+
+    
+
+    <student class_name="BD1905" teacher="c">
+        <id>122</id>
+        <name>cc</name>
+        <age>16</age>
+        <describe>成绩&lt;90,成绩&gt;90,成绩&amp;90,成绩'90,成绩"90</describe>
+        <address>江苏省苏州市昆山市学院路828号浦东软件园</address>
+    </student>
+
+    
+<haha nums="10">good luck</haha></students>

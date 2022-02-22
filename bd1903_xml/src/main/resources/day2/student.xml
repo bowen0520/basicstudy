@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE school[
+        <!ELEMENT school (#PCDATA|class)*>
+        <!ELEMENT class (student*)>
+        <!ELEMENT student EMPTY>
+
+        <!ATTLIST school school_name ID #REQUIRED>
+        <!ATTLIST class class_name ID #REQUIRED>
+        <!ATTLIST student student_id ID #REQUIRED>
+        <!ATTLIST student student_name CDATA #REQUIRED>
+        <!ATTLIST student student_gender (男|女) "男">
+        <!ATTLIST student student_address CDATA "昆山">
+]>
+
+<school school_name="江西理工大学">
+    <class class_name="BD1903">
+        <student student_id="s111" student_name="aa"></student>
+        <student student_id="s112" student_name="bb"></student>
+        <student student_id="s113" student_name="cc"></student>
+    </class>
+    <class class_name="杰普实验">
+        <student student_id="s121" student_name="qq"></student>
+        <student student_id="s122" student_name="ww"></student>
+        <student student_id="s123" student_name="ee"></student>
+    </class>
+</school>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<students>
+<student class_name="A100" teacher="a">
+<gender>男</gender>
+<age>16</age>
+<name>zz</name>
+<id>123</id>
+<address>江苏省苏州市昆山市学院路828号浦东软件园</address>
+</student>
+<student class_name="B100" teacher="b">
+<name>bb</name>
+<age>18</age>
+<id>121</id>
+<address>江苏省苏州市昆山市学院路828号浦东软件园</address>
+<gender>女</gender>
+</student>
+<student class_name="BD1905" teacher="c">
+<address>江苏省苏州市昆山市学院路828号浦东软件园</address>
+<id>122</id>
+<age>16</age>
+<gender>女</gender>
+<name>cc</name>
+</student>
+<student class_name="BD1900" teacher="dqw">
+<address>adsadas</address>
+<id>123123</id>
+<age>12</age>
+<gender>女</gender>
+<name>sa</name>
+</student>
+</students>

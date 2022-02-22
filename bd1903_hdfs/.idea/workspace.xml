@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d64df4b-38e1-4607-a83c-cee6d729714c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/bd1903_hdfs_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_stephenc_jcip_jcip_annotations_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_11_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_extensions_guice_servlet_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jamesmurty_utils_java_xmlbuilder_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_54.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_microsoft_sqlserver_mssql_jdbc_6_2_1_jre7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_nimbusds_nimbus_jose_jwt_4_41_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp_okhttp_2_7_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_guice_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_json_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_paranamer_paranamer_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_java7_2_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_core_1_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_digester_commons_digester_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_net_commons_net_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_7_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jets3t_jets3t_0_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_avro_avro_1_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_client_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_framework_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_recipes_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_api_api_asn1_api_1_0_0_M20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_api_api_util_1_0_0_M20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_server_apacheds_i18n_2_0_0_M15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_server_apacheds_kerberos_codec_2_0_0_M15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_jcache_1_0_spec_1_0_alpha_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_annotations_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_auth_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_client_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_common_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_hdfs_client_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_app_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_common_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_core_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_jobclient_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_shuffle_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_api_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_client_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_common_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_registry_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_common_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_htrace_htrace_core4_4_1_0_incubating.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_jaxrs_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_xc_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ehcache_ehcache_3_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_fusesource_leveldbjni_leveldbjni_all_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_6_1_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_sslengine_6_1_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_util_6_1_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_tukaani_xz_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xmlenc_xmlenc_0_52.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bd1903_hdfs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency-reduced-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hadoop/hdfs/Download.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hadoop/test/RefPC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hadoop/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hadoop/test/YearSid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/bd1903_hdfs-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/Util/CreateFiles.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/homework/filebackuporrecovery/FileBackup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/homework/filebackuporrecovery/FileRecovery.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/homework/patent/PatentAnalysis.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/homework/patent/PatentCited.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/homework/patent/PatentCiteds.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/homework/patent/PatentCites.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/homework/scoreanalysis/CalaScore$MyMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/homework/scoreanalysis/CalaScore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/homework/weather/WeatherAnalysis$MyMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/homework/weather/WeatherAnalysis.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/jobcontrol/AllJobRun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/jobcontrol/GetSidAvgTemp$MyReducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/jobcontrol/GetSidAvgTemp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/jobcontrol/GetSidMaxAndAvgTemp$MyMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/jobcontrol/GetSidMaxAndAvgTemp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/jobcontrol/GetSidMaxTemp$MyReducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/jobcontrol/GetSidMaxTemp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/jobcontrol/GetSidTemp$MyMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/jobcontrol/GetSidTemp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/DBFormat/Score.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/DBFormat/ScoreInputDB$MyMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/DBFormat/ScoreInputDB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/DBFormat/ScoreOutputDB$MyMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/DBFormat/ScoreOutputDB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/DBFormat/WeatherInputDB$MyMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/DBFormat/WeatherInputDB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/DBFormat/YST.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/TotalSort/TotalSort1$MyMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/TotalSort/TotalSort1$MyReducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/TotalSort/TotalSort1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/TotalSort/TotalSort2$MyMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/TotalSort/TotalSort2$MyReducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/TotalSort/TotalSort2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/TotalSort/TotalSort3$MyMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/TotalSort/TotalSort3$MyReducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/TotalSort/TotalSort3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/TotalSort/TotalSort4$MyMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/TotalSort/TotalSort4$MyReducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/TotalSort/TotalSort4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/chainmapperandreduce/PatentCitedByChain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/combiner/AvgData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/combiner/WeatherDataParser$MyMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/combiner/WeatherDataParser$MyReducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/combiner/WeatherDataParser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/combiner/WeatherDataParserWithCombiner$MyCombiner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/combiner/WeatherDataParserWithCombiner$MyMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/combiner/WeatherDataParserWithCombiner$MyReducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/combiner/WeatherDataParserWithCombiner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/join/DataHandle$MyMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/join/DataHandle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/join/KeyFlag.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/join/ScoreAnalysis$MyMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/join/ScoreAnalysis$MyReducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/join/ScoreAnalysis.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/join/ScoreAnalysisByMapJoin$MyMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/join/ScoreAnalysisByMapJoin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/join/ScoreAnalysisByReduceJoin$MyChineseMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/join/ScoreAnalysisByReduceJoin$MyComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/join/ScoreAnalysisByReduceJoin$MyEnglishMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/join/ScoreAnalysisByReduceJoin$MyMathMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/join/ScoreAnalysisByReduceJoin$MyPartitioner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/join/ScoreAnalysisByReduceJoin$MyReducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/join/ScoreAnalysisByReduceJoin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/patentanalysis/PatentCitedsMR.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/patentanalysis/PatentCitedsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/patentanalysis/PatentCitedsReducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/patentanalysis/PatentCitesMR.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/patentanalysis/PatentCitesMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/patentanalysis/PatentCitesReducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/secondarysort/MaxTempEachYearSid$MyMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/secondarysort/MaxTempEachYearSid$MyReducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/secondarysort/MaxTempEachYearSid.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/secondarysort/MyComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/secondarysort/MyPartitioner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/mapreduce/secondarysort/YearSid.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/sequencefile/SequenceFileRead.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hadoop/sequencefile/SequenceFileWrite.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hadoop/mapreduce/patentanalysis/PatentCitedsMR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hadoop/mapreduce/patentanalysis/PatentCitedsMR.java" afterDir="false" />
+    </list>
+    <list id="ddb71309-29c8-4dde-a6a3-56d30176093e" name="Revert &quot;Initial commit&quot;" comment="Revert &quot;Initial commit&quot;&#10;&#10;This reverts commit 809a468a">
+      <change beforePath="$PROJECT_DIR$/src/main/java/hadoop/mapreduce/join/ScoreAnalysisByReduceJoin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hadoop/mapreduce/join/ScoreAnalysisByReduceJoin.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="bd1903_hdfs">
+      <favorite_root url="file://$PROJECT_DIR$" module="bd1903_hdfs (1)" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+        <favorite_root url="file://$PROJECT_DIR$/src" module="bd1903_hdfs (1)" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/src/test" module="bd1903_hdfs (1)" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/src/test/java" module="bd1903_hdfs (1)" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+          </favorite_root>
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/.idea" module="bd1903_hdfs (1)" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/.idea/misc.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/.gitignore" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/codeStyles" module="bd1903_hdfs (1)" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/.idea/codeStyles/Project.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$PROJECT_DIR$/.idea/compiler.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/workspace.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/bd1903_hdfs.iml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/dependency-reduced-pom.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      </favorite_root>
+    </favorites_list>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\ideal-workplace\bd1903_hdfs\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1S8Oz7yi9RSgiW0umT8IydWcv4b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.9.2/hadoop-mapreduce-client-core-2.9.2.jar!/" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="hadoop.test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.RefPC">
+    <configuration name="Download" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hadoop.hdfs.Download" />
+      <module name="bd1903_hdfs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hadoop.hdfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RefPC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hadoop.test.RefPC" />
+      <module name="bd1903_hdfs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hadoop.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="bd1903_hdfs (2)" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="bd1903_hdfs (2)" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RefPC" />
+        <item itemvalue="Application.Download" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\29314\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d64df4b-38e1-4607-a83c-cee6d729714c" name="Default Changelist" comment="" />
+      <created>1570942016266</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570942016266</updated>
+      <workItem from="1570942019843" duration="217000" />
+      <workItem from="1571018781814" duration="924000" />
+      <workItem from="1571019825300" duration="477000" />
+      <workItem from="1571020461615" duration="1274000" />
+      <workItem from="1571021763070" duration="468000" />
+      <workItem from="1571022605439" duration="7221000" />
+      <workItem from="1571923181419" duration="280000" />
+      <workItem from="1571965555971" duration="13000" />
+      <workItem from="1571985324890" duration="91000" />
+      <workItem from="1573054044341" duration="1087000" />
+      <workItem from="1573091667440" duration="3718000" />
+      <workItem from="1573114717184" duration="17000" />
+      <workItem from="1573478495613" duration="8000" />
+      <workItem from="1574678237721" duration="110000" />
+      <workItem from="1574680221252" duration="16000" />
+      <workItem from="1574680962905" duration="83000" />
+      <workItem from="1574681366489" duration="1322000" />
+      <workItem from="1574683133450" duration="599000" />
+      <workItem from="1574730018129" duration="1435000" />
+      <workItem from="1593778850697" duration="4016000" />
+      <workItem from="1593927839487" duration="13636000" />
+      <workItem from="1594117114908" duration="2975000" />
+      <workItem from="1595149916121" duration="1472000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593781858440">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1593781858440" />
+    <state x="548" y="121" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1593781828913">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="121" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.824@0.0.1536.824" timestamp="1593781828913" />
+    <state x="498" y="200" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1593781812199">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="200" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1593781812199" />
+    <state x="544" y="157" key="FileChooserDialogImpl" timestamp="1593780222667">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="544" y="157" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593780222667" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1594182745607">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594182745607" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1594182745607">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594182745607" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1594182745607">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594182745607" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1594182745607">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594182745607" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>bd1903_hdfs (1)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

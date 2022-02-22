@@ -1,0 +1,13 @@
+
+<!ELEMENT students (student*)>
+<!ELEMENT student (id,name,age,describe,address)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+<!ELEMENT describe (#PCDATA)>
+<!ELEMENT address (#PCDATA)>
+
+<!ATTLIST student class_name ID #REQUIRED>
+<!ATTLIST student gender (男|女) #IMPLIED>
+<!ATTLIST student add CDATA #IMPLIED>
+<!ATTLIST student teacher CDATA #REQUIRED>
